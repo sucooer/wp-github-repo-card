@@ -1,0 +1,7 @@
+wp-github-repo-card/
+├── css/
+│   └── github-card.css
+├── js/
+│   └── github-card.js
+├── wp-github-repo-card.php
+└── readme.txt 

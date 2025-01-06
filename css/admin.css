@@ -1,0 +1,26 @@
+.github-repo-card-settings {
+    max-width: 800px;
+    margin: 20px 0;
+}
+
+.github-repo-card-settings .form-table {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.github-repo-card-settings .form-table th {
+    padding: 20px;
+}
+
+.github-repo-card-settings input[type="password"] {
+    width: 100%;
+    max-width: 500px;
+}
+
+.github-repo-card-settings .description {
+    color: #666;
+    font-style: italic;
+    margin-top: 8px;
+} 
